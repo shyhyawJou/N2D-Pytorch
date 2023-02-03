@@ -15,5 +15,5 @@ pip install umap-learn
 
 # Usage 
 ```
-ython train.py -bs 256 -k 10 -epoch 30
+python train.py -bs 256 -k 10 -epoch 30
 ```
